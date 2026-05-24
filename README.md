@@ -1,5 +1,4 @@
-# Car-Exhibition-Luxury-Automotive-Showcase
-UI design
+ # UI design 🚗
 # Car Exhibition | Luxury Automotive Showcase
 
 A modern and responsive car exhibition website built with HTML, CSS, and JavaScript.
