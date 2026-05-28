@@ -4,13 +4,12 @@
 A modern and responsive car exhibition website built with HTML, CSS, and JavaScript.
 ---
 ### Preview
-![preview]()
-![preview]()
-![preview]()
-![preview]()
-![preview]()
-![preview]()
-![preview]()
+![preview](https://raw.githubusercontent.com/shirinmohajeri/Car-Exhibition-Luxury-Automotive-Showcase/refs/heads/main/picture1.jpg)
+![preview](https://raw.githubusercontent.com/shirinmohajeri/Car-Exhibition-Luxury-Automotive-Showcase/refs/heads/main/picture2.jpg)
+![preview](https://raw.githubusercontent.com/shirinmohajeri/Car-Exhibition-Luxury-Automotive-Showcase/refs/heads/main/picture3.jpg)
+![preview](https://raw.githubusercontent.com/shirinmohajeri/Car-Exhibition-Luxury-Automotive-Showcase/refs/heads/main/picture4.jpg)
+![preview](https://raw.githubusercontent.com/shirinmohajeri/Car-Exhibition-Luxury-Automotive-Showcase/refs/heads/main/picture5.jpg)
+![preview](https://raw.githubusercontent.com/shirinmohajeri/Car-Exhibition-Luxury-Automotive-Showcase/refs/heads/main/picture6.jpg)
 ---
 
 ## Features
