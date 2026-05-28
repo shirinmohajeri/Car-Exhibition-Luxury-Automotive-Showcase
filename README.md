@@ -2,6 +2,16 @@
 # Car Exhibition | Luxury Automotive Showcase
 
 A modern and responsive car exhibition website built with HTML, CSS, and JavaScript.
+---
+### Preview
+![preview]()
+![preview]()
+![preview]()
+![preview]()
+![preview]()
+![preview]()
+![preview]()
+---
 
 ## Features
 
